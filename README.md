@@ -6,17 +6,17 @@ CrisisLens is a multilingual fact-checked claim retrieval system designed to ide
 
 ---
 
-## ?? Features
+##  Features
 
-- ?? Multilingual & Crosslingual Retrieval
-- ?? Fine-tuned MPNet-based Bi-Encoder Models
-- ? FAISS Vector Similarity Search
-- ?? Evaluated on SemEval 2025 Task 7
-- ??? Interactive Streamlit Web Interface
+-  Multilingual & Crosslingual Retrieval
+-  Fine-tuned MPNet-based Bi-Encoder Models
+-  FAISS Vector Similarity Search
+-  Evaluated on SemEval 2025 Task 7
+-  Interactive Streamlit Web Interface
 
 ---
 
-## ?? Results (SemEval 2025 Task 7)
+##  Results (SemEval 2025 Task 7)
 
 | Model | Mono S@10 | Cross S@10 |
 |------|-----------:|-----------:|
@@ -26,14 +26,14 @@ CrisisLens is a multilingual fact-checked claim retrieval system designed to ide
 
 ---
 
-## ?? Hugging Face Models
+##  Hugging Face Models
 
 - **Crosslingual Model:** https://huggingface.co/Sayyam-1/crislens-cross-mpnet
 - **Monolingual Model:** https://huggingface.co/Sayyam-1/crislens-mono-mpnet
 
 ---
 
-## ?? Dataset
+##  Dataset
 
 **SemEval 2025 Task 7 � MultiClaim**
 
@@ -44,7 +44,7 @@ CrisisLens is a multilingual fact-checked claim retrieval system designed to ide
 
 ---
 
-## ?? Installation
+##  Installation
 
 Clone the repository:
 
@@ -72,7 +72,7 @@ streamlit run app.py
 
 ---
 
-## ?? Demo
+##  Demo
 
 A short demonstration of the application is available below.
 
@@ -83,7 +83,7 @@ A short demonstration of the application is available below.
 
 ---
 
-## ??? Tech Stack
+##  Tech Stack
 
 - Python
 - Streamlit
@@ -96,7 +96,7 @@ A short demonstration of the application is available below.
 
 ---
 
-## ????? Author
+##  Author
 
 **Sayyam Khalid Satti**
 
@@ -104,6 +104,6 @@ AI & Machine Learning Developer
 
 ---
 
-## ?? License
+##  License
 
 This project is intended for research and educational purposes.
