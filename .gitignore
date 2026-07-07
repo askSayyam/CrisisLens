@@ -1,0 +1,87 @@
+# ==========================
+# Python
+# ==========================
+train_dev_sets/
+test_set/
+artifacts/
+baselines/
+# start
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================
+# Virtual Environments
+# ==========================
+venv/
+.venv/
+env/
+ENV/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+
+# ==========================
+# Jupyter Notebook Checkpoints
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Build Files
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Large Dataset Folders
+# ==========================
+train_dev_sets/
+test_set/
+baselines/
+artifacts/
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.bak
+*.cache
+
+# ==========================
+# Model Files (if any)
+# ==========================
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pb
+
+# ==========================
+# Archives
+# ==========================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
