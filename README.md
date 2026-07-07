@@ -74,7 +74,7 @@ streamlit run app.py
 
 ##  Demo
 
-A short demonstration of the application is available below.
+A short demonstration of the application is available below it can be downloaded by clicking on the link and view as RAW
 
 
 📹 **Demo Video:** [Demo/CrisisLens-Demo.mp4](Demo/CrisisLens-Demo.mp4)
