@@ -1,5 +1,5 @@
                                                    MONO
-correct results:                                    
+MONO:                                    
 
 Video shows shark swimming on the flooded highway during Hurricane Ian."
 "Drinking bleach or injecting disinfectant can cure coronavirus infections."
@@ -11,7 +11,7 @@ Did Donald Trump ban TikTok on March 15, 2024?"
 "Are there exactly 15,000 troops deployed to the border right now?" 
 
                                                          MULTI
-Correct:
+Cross:
 "कोरोना वायरस लहसुन खाने से ठीक हो जाता है"
 روسيا تستخدم أسلحة نووية تكتيكية في أوكرانيا
 क्या 5G टावर से पक्षियों की मौत हो रही है?
