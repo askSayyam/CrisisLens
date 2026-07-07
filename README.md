@@ -76,36 +76,10 @@ streamlit run app.py
 
 A short demonstration of the application is available below.
 
-**Screen Recording**
 
-> Add your demo video here after uploading it.
-
-Examples:
-
-- ?? GitHub Repository Video
-- ?? YouTube Demo
-- ?? Google Drive Link
-
-Example:
-
-```text
-https://youtu.be/your-video-link
+📹 **Demo Video:** [Demo/CrisisLens-Demo.mp4](Demo/CrisisLens-Demo.mp4)
 ```
 
----
-
-## ?? Screenshots
-
-Add screenshots of the application here.
-
-Example:
-
-```
-screenshots/
-    home.png
-    retrieval.png
-    results.png
-```
 
 ---
 
